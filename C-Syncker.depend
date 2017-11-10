@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1509328890 source:/home/matheus/Documentos/Lilypond/C++/C-Syncker/src/Escriba.cpp
+	"Escriba.h"
+
+1509328888 /home/matheus/Documentos/Lilypond/C++/C-Syncker/include/Escriba.h
+	<iostream>
+	<list>
+	<unordered_map>
+	<bits/stdc++.h>
+	<fstream>
+	<sstream>
+	<regex>
+	<string>
+
+1507312274 source:/home/matheus/Documentos/Lilypond/C++/C-Syncker/src/main.cpp
+
+1509329539 source:/home/matheus/Documentos/Lilypond/C++/C-Syncker/src/Sincronizador.cpp
+	"Sincronizador.h"
+
+1509329819 /home/matheus/Documentos/Lilypond/C++/C-Syncker/include/Sincronizador.h
+	<iostream>
+	<map>
+	<list>
+	<vector>
+	<string>
+	<numeric>
+	<algorithm>
+	<functional>
+	<unordered_set>
+
+1510311260 source:/home/matheus/Dropbox/C-Syncker/C-Syncker0.0.1/C-Syncker/src/Escriba.cpp
+	"Escriba.h"
+
+1510311260 /home/matheus/Dropbox/C-Syncker/C-Syncker0.0.1/C-Syncker/include/Escriba.h
+	<iostream>
+	<list>
+	<unordered_map>
+	<bits/stdc++.h>
+	<fstream>
+	<sstream>
+	<regex>
+	<string>
+
+1510311618 source:/home/matheus/Dropbox/C-Syncker/C-Syncker0.0.1/C-Syncker/src/Sincronizador.cpp
+	"Sincronizador.h"
+
+1510311511 /home/matheus/Dropbox/C-Syncker/C-Syncker0.0.1/C-Syncker/include/Sincronizador.h
+	<iostream>
+	<map>
+	<list>
+	<vector>
+	<string>
+	<numeric>
+	<algorithm>
+	<functional>
+	<unordered_set>
+
+1510311260 source:/home/matheus/Dropbox/C-Syncker/C-Syncker0.0.1/C-Syncker/src/main.cpp
+	<iostream>
+	"Sincronizador.cpp"
+	"Escriba.h"
+	<list>
+	<string>
+	<ctype.h>
+	<sstream>
+
+1510311260 /home/matheus/Dropbox/C-Syncker/C-Syncker0.0.1/C-Syncker/src/Sincronizador.cpp
+	"Sincronizador.h"
+
+1510311260 source:/home/matheus/Dropbox/C-Syncker/C-Syncker0.0.1/C-Syncker/src/ProcessaEntrada.cpp
+	"ProcessaEntrada.h"
+
+1510311260 /home/matheus/Dropbox/C-Syncker/C-Syncker0.0.1/C-Syncker/include/ProcessaEntrada.h
+	<iostream>
+	<list>
+	<string>
+
